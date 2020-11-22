@@ -5,6 +5,11 @@
       "name": "Fundamentals of Credit",
       "imageUrl": "https://picsum.photos/100/100",
       "status": "DRAFT",
+      "images": [
+            "https://picsum.photos/300/300",
+            "https://picsum.photos/300/300",
+            "https://picsum.photos/300/300"
+       ],
       "instructors": [
         {
           "name": "Roli Jain",
