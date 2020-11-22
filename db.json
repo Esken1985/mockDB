@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Fundamentals of Credit",
-      "imageUrl": "https://picsum.photos/100/100",
+      "imageUrl": "https://picsum.photos/id/532/100/100",
       "status": "DRAFT",
       "images": [
             "https://picsum.photos/450/300",
@@ -24,8 +24,13 @@
     {
       "id": 2,
       "name": "Financial Management",
-      "imageUrl": "https://picsum.photos/100/100",
+      "imageUrl": "https://picsum.photos/id/528/100/100",
       "status": "PUBLISHED",
+       "images": [
+            "https://picsum.photos/450/300",
+            "https://picsum.photos/450/300",
+            "https://picsum.photos/450/300"
+       ],
       "instructors": [
         {
           "name": "Sarah Connor",
@@ -40,8 +45,13 @@
     {
       "id": 359,
       "name": "Forensic Accounting and Fraud Examination",
-      "imageUrl": "https://picsum.photos/100/100",
+      "imageUrl": "https://picsum.photos/id/20/100/100",
       "status": "DRAFT",
+        "images": [
+            "https://picsum.photos/450/300",
+            "https://picsum.photos/450/300",
+            "https://picsum.photos/450/300"
+       ],
       "instructors": [
         {
           "name": "Kyle Reese",
@@ -56,8 +66,13 @@
     {
       "id": 45,
       "name": "Think like a CFO",
-      "imageUrl": "https://picsum.photos/100/100",
+      "imageUrl": "https://picsum.photos/id/180/100/100",
       "status": "DRAFT",
+        "images": [
+            "https://picsum.photos/450/300",
+            "https://picsum.photos/450/300",
+            "https://picsum.photos/450/300"
+       ],
       "instructors": [
         {
           "name": "Sebastian Taylor",
@@ -68,8 +83,13 @@
     {
       "id": 875,
       "name": "Formal Financial Accounting",
-      "imageUrl": "https://picsum.photos/100/100",
+      "imageUrl": "https://picsum.photos/id/119/100/100",
       "status": "PUBLISHED",
+        "images": [
+            "https://picsum.photos/450/300",
+            "https://picsum.photos/450/300",
+            "https://picsum.photos/450/300"
+       ],
       "instructors": [
         {
           "name": "Will Smith",
@@ -80,8 +100,13 @@
     {
       "id": 6767768,
       "name": "Business Foundations",
-      "imageUrl": "https://picsum.photos/100/100",
+      "imageUrl": "https://picsum.photos/id/1073/100/100",
       "status": "PUBLISHED",
+        "images": [
+            "https://picsum.photos/450/300",
+            "https://picsum.photos/450/300",
+            "https://picsum.photos/450/300"
+       ],
       "instructors": [
         {
           "name": "John Snow",
@@ -96,8 +121,13 @@
     {
       "id": 7686,
       "name": "Accounting and Finance For IT Specialists",
-      "imageUrl": "https://picsum.photos/100/100",
+      "imageUrl": "https://picsum.photos/id/0/100/100",
       "status": "DRAFT",
+        "images": [
+            "https://picsum.photos/450/300",
+            "https://picsum.photos/450/300",
+            "https://picsum.photos/450/300"
+       ],
       "instructors": [
         {
           "name": "Stanley Jobson",
@@ -113,7 +143,12 @@
       "id": 8678,
       "name": "Business Analytics",
       "status": "PUBLISHED",
-      "imageUrl": "https://picsum.photos/100/100",
+      "imageUrl": "https://picsum.photos/id/1/100/100",
+        "images": [
+            "https://picsum.photos/450/300",
+            "https://picsum.photos/450/300",
+            "https://picsum.photos/450/300"
+       ],
       "instructors": [
         {
           "name": "Lisbet Salander",
